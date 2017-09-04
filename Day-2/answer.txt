@@ -3,3 +3,8 @@
 3. head paragraph.txt --lines=5 && echo "" && tail paragraph.txt --lines=5
 4. wc paragraph.txt
 5. ls | wc
+6. chmod u+x paragraph.txt
+7. diff question.txt answer.txt | wc -l
+8. cat paragraph.txt | grep this | wc -l
+9.a tac students.txt | sort
+10. cat demo.txt | grep is | wc -l

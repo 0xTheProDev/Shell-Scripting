@@ -3,3 +3,11 @@
 3. Display first and last 5 lines of a file.
 4. Count the number of lines, words and characters of a file.
 5. Count the number of files present in your directory
+6. Create a directory, create a file in that directory then give excutable permission for user only.
+7. Compare two files and find number of diff lines.
+8. Find out the number of occurence of a particular word in uppercase from a file.
+9. Create a demo file with student name & roll no. Sort the file w.r.t. name and roll no seperately.
+10. Find the number of occurence of the word 'is' in the file containing following:
+" This is a demo file
+Please create this file as it is easy.
+Last line is close this file."
