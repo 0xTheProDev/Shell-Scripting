@@ -1,0 +1,5 @@
+1. List down the filenames present in your current directory with access permission.
+2. List down the directories in your current directory with access permission.
+3. Display first and last 5 lines of a file.
+4. Count the number of lines, words and characters of a file.
+5. Count the number of files present in your directory

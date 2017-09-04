@@ -1,0 +1,5 @@
+1. ls -l
+2. ls -d
+3. head paragraph.txt --lines=5 && echo "" && tail paragraph.txt --lines=5
+4. wc paragraph.txt
+5. ls | wc
