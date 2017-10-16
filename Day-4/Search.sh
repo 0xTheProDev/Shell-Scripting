@@ -8,13 +8,12 @@ do
 done
 echo "Enter the term you want to search"
 read key
-index=-1
 for i in $(seq 1 $n)
 do
     if [ ${arr[$i]} -eq $key ]
     then
-        index=$i
-        break
+        echo "$key occurs at $i position"
+        exit
     fi
 done
-echo "$key occurs at $index position"
+echo "$key does not occur in the list"
