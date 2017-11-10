@@ -4,7 +4,7 @@ do
 done
 for i in $(seq 1 10)
 do
-        read a;
+        read a
         b=${arr[$a]}
         arr[$a]=`expr $b + 1`
 done
